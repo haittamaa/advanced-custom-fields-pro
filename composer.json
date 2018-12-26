@@ -1,5 +1,5 @@
 {
-    "name": "Wordpress-extensions/advanced-custom-fields-pro",
+    "name": "wpackagist-plugin/advanced-custom-fields-pro",
     "type": "wordpress-plugin",
     "version": "5.7.9",
     "require": {

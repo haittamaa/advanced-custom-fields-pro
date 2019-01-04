@@ -1,7 +1,6 @@
 {
     "name": "haittamaa/advanced-custom-fields-pro",
     "type": "wordpress-plugin",
-    "version": "5.7.9",
     "require": {
         "composer/installers": "~1.0"
     }
